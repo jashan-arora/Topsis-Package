@@ -18,7 +18,7 @@ pip install Topsis-Jashan-102003206
 
 ## Usage
 
-Enter csv filename followed by _.csv_ extentsion, then enter the _weights_ vector with vector values separated by commas, followed by the _impacts_ vector with comma separated signs _(+,-)_, followed by name of output file to be generated
+Enter csv filename followed by _.csv_ extentsion, then enter the _weights_ vector with vector values separated by commas, followed by the _impacts_ vector with comma separated signs _(+,-)_, followed by name of output file to be generated. It generates output csv file in the present working directory.
 ### Syntax
 
 ```topsis <input_file> <weights> <impacts> <output_file>```
