@@ -11,7 +11,7 @@ README = (HERE / "README.md").read_text()
 setup(
     name="Topsis-Jashan-102003206",
     version="1.0.0",
-    description="It squares the number",
+    description="Topsis package for Multiple Criteria Decision Making problems(MCDM) problems",
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://pypi.python.org/pypi/Topsis-Jashan-10203206",
