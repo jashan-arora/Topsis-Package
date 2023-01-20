@@ -14,9 +14,9 @@ setup(
     description="Topsis package for Multiple Criteria Decision Making problems(MCDM) problems",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://pypi.python.org/pypi/Topsis-Jashan-10203206",
+    url="https://github.com/jashan-arora/Topsis-Package",
     author="Jashan Arora",
-    author_email="jarora_be20@thapar.edu",
+    author_email="jashan21110@gmail.com",
     license="MIT",
     classifiers=[
         "License :: OSI Approved :: MIT License",

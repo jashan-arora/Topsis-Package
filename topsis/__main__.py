@@ -101,6 +101,7 @@ def main():
 
     except ArgumentsError:
         print("Number of Arguments passed must be equal to 4")
+        print("\nThe correct syntax is: \ntopsis <input_file> <weights> <impacts> <output_file>\n")
 
     except FileNotFoundError:
         print("No such file or directory: ", sys.argv[1])
