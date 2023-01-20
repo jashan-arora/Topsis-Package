@@ -1,4 +1,4 @@
-# Topsis-Jashan-102003206
+# TOPSIS SCORE EVALUATOR
 
 ## **Project-1 (UCS654)**
 _Submitted by: **Jashan Arora**_ 
